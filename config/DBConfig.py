@@ -17,3 +17,5 @@ us_orders_test = dict(
     db='third_platform_orders',
     charset='UTF8'
 )
+
+add = 123456
