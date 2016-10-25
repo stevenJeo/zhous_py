@@ -18,3 +18,12 @@ us_orders_test = dict(
     charset='UTF8'
 )
 
+
+third_platform_ordes_test = dict(
+	host='10.130.91.54',
+	port=3579,
+    user='zxadmin',
+    password='2ee8c137b56f2ec',
+    db='third_platform_orders',
+    charset='UTF8'
+)
