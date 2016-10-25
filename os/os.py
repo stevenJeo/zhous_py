@@ -9,4 +9,6 @@ os.chdir("director")  # 改变当前位置到指定目录，如“/usr/bin”
 cwd = os.getcwd()
 print("当前目录为：", cwd)
 
+print("当前目录为：", cwd)
+
 os.rmdir("director")  # 相对路径从当前位置搜索
