@@ -3,6 +3,7 @@ __author__ = 'zhouzhishuai'
 
 from db.dbUtils import *
 
+# 查询SQL
 str1 = "SELECT * FROM ebay_in_orders_queue"
 
 orders = select_sql(str1)
